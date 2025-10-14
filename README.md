@@ -1,5 +1,6 @@
 # LEGO Set Investment : A Two-Part Analytical Approach
-<img width="2560" height="1440" alt="UYYY" src="https://github.com/user-attachments/assets/67dd9a3d-ee9b-4b07-9841-a34a4a00eecd" />
+<img width="800" height="400" alt="UYYY" src="https://github.com/user-attachments/assets/67dd9a3d-ee9b-4b07-9841-a34a4a00eecd" />
+
 *Figure: Sample LEGO bricks.*
 
 ## Overview
@@ -22,7 +23,7 @@ This project takes a comprehensive approach to LEGO set valuation through two di
 - Largest themes don't guarantee best value-per-brick
 - *Architecture* and *Creator Expert* themes show superior piece efficiency
 - Licensed themes command price premiums beyond raw material value
-<img width="819" height="384" alt="Screenshot 2025-10-14 at 15 56 45" src="https://github.com/user-attachments/assets/6263e972-d05d-4bd3-a52f-bd7cc24c938e" />
+<img width="600" height="300" alt="Screenshot 2025-10-14 at 15 56 45" src="https://github.com/user-attachments/assets/6263e972-d05d-4bd3-a52f-bd7cc24c938e" />
 
 *Figure: Average price per brick (USD) by theme, showing which themes offer the best value.*
 
@@ -38,7 +39,7 @@ This project takes a comprehensive approach to LEGO set valuation through two di
 - Identifies undervalued sets (retail price < predicted fair price)
 - Flags overpriced sets for risk avoidance
 - Provides quantitative foundation for investment decisions
-<img width="833" height="386" alt="Screenshot 2025-10-14 at 15 58 00" src="https://github.com/user-attachments/assets/76deef03-622e-4a63-ab68-d6ad10b2b1a4" />
+<img width="600" height="300" alt="Screenshot 2025-10-14 at 15 58 00" src="https://github.com/user-attachments/assets/76deef03-622e-4a63-ab68-d6ad10b2b1a4" />
 
 *Figure: Scatter plot comparing predicted vs actual retail prices. Points closer to the diagonal line indicate stronger model accuracy.*
 
@@ -53,28 +54,27 @@ The descriptive analysis informs *which types* of sets to consider, while the pr
 ## Tools & Methodology
 - **Descriptive Analytics:** Pandas, NumPy, Matplotlib/Seaborn for EDA and visualization
 - **Predictive Modeling:** Scikit-learn for machine learning, statistical validation
-- **Business Intelligence:** Translating technical findings into actionable investment theses
+- **Business Intelligence:** Translating technical findings into actionable investment themes
 
-## Business Value
+  ## Business Value & Impact
 - **Part 1 Value:** Strategic market understanding and theme selection framework
-- **Part 2 Value:** Tactical set-specific valuation and pricing signals
+- **Part 2 Value:** Tactical set-specific valuation and pricing signals  
 - **Combined Value:** Comprehensive analytical approach from market-level to asset-specific
+- **Scalable Solution:** Transforms raw product data into actionable investment signals—reduces guesswork and can be adapted to other collectible markets
 
 ## Assumptions & Limitations
 - **Data source:** LEGO product data for years 2018–2019 (publicly available listings).  
 - **Assumptions:** We assume listed retail prices are valid and representative, and do not adjust for inflation.  
 - **Limitations:** The model does not consider secondary/auction pricing behavior, rarity, condition, or external market trends.  
 - **Caution:** Predictions are estimates; observed values may deviate due to design, packaging, scarcity, or collector demand.
-
- ## Business Value & Impact  
- Transforms raw product data into actionable investment signals — reduces guesswork, helps identify undervalued sets, and is scalable to other markets.
  
  ## Next Steps  
 - Expand dataset (more years, resale / auction data)   
 - Adapt to other collectible markets  
-- Add an interactive dashboard to allow users to explore predictions
+- Develop interactive dashboard to allow users to explore predictions
+- Incorporate time-series analysis for price appreciation trends
 
 ## Author
 Akram Mohammed  
-[![Email](https://img.shields.io/badge/Email-akrammohammed09@gmail.com-blue?style=flat&logo=gmail)](akrammohammed09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/akram-mohammed-465052134)
+[![Email](https://img.shields.io/badge/Email-akrammohammed09@gmail.com-blue?style=flat&logo=gmail)](mailto:akrammohammed09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akram-mohammed-465052134)
