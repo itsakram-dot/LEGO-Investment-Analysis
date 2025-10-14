@@ -1,6 +1,6 @@
 # LEGO Set Investment : A Two-Part Analytical Approach
 <img width="2560" height="1440" alt="UYYY" src="https://github.com/user-attachments/assets/67dd9a3d-ee9b-4b07-9841-a34a4a00eecd" />
-
+*Figure: Sample LEGO bricks image to visually represent the project domain.*
 
 ## Overview
 This project takes a comprehensive approach to LEGO set valuation through two distinct analytical lenses: descriptive analysis of historical patterns and predictive modeling of fair market prices. Using 2018-2019 LEGO set data, we answer both "what has happened" and "what should happen" to guide investment decisions.
@@ -23,6 +23,7 @@ This project takes a comprehensive approach to LEGO set valuation through two di
 - *Architecture* and *Creator Expert* themes show superior piece efficiency
 - Licensed themes command price premiums beyond raw material value
 <img width="819" height="384" alt="Screenshot 2025-10-14 at 15 56 45" src="https://github.com/user-attachments/assets/6263e972-d05d-4bd3-a52f-bd7cc24c938e" />
+*Figure: Average price per brick (USD) by theme, showing which themes offer the best value.*
 
 ## Part 2: Predictive Modeling - Estimating Fair Market Value
 **Goal:** Build machine learning models to predict what LEGO sets *should* cost based on their attributes.
@@ -37,6 +38,7 @@ This project takes a comprehensive approach to LEGO set valuation through two di
 - Flags overpriced sets for risk avoidance
 - Provides quantitative foundation for investment decisions
 <img width="833" height="386" alt="Screenshot 2025-10-14 at 15 58 00" src="https://github.com/user-attachments/assets/76deef03-622e-4a63-ab68-d6ad10b2b1a4" />
+*Figure: Scatter plot comparing predicted vs actual retail prices. Points closer to the diagonal line indicate stronger model accuracy.*
 
 ## How the Two Parts Work Together
 The descriptive analysis informs *which types* of sets to consider, while the predictive modeling identifies *specific sets* within those categories that represent good value.
@@ -56,10 +58,19 @@ The descriptive analysis informs *which types* of sets to consider, while the pr
 - **Part 2 Value:** Tactical set-specific valuation and pricing signals
 - **Combined Value:** Comprehensive analytical approach from market-level to asset-specific
 
-## Next Steps
-- Expand descriptive analysis to include secondary market trends
-- Enhance predictive model with resale price data and time-series features
-- Build integrated dashboard showcasing both descriptive insights and predictive recommendations
+## Assumptions & Limitations
+- **Data source:** LEGO product data for years 2018–2019 (publicly available listings).  
+- **Assumptions:** We assume listed retail prices are valid and representative, and do not adjust for inflation.  
+- **Limitations:** The model does not consider secondary/auction pricing behavior, rarity, condition, or external market trends.  
+- **Caution:** Predictions are estimates; observed values may deviate due to design, packaging, scarcity, or collector demand.
+
+ ## Business Value & Impact  
+ Transforms raw product data into actionable investment signals — reduces guesswork, helps identify undervalued sets, and is scalable to other markets.
+ 
+ ## Next Steps  
+- Expand dataset (more years, resale / auction data)   
+- Adapt to other collectible markets  
+- Add an interactive dashboard to allow users to explore predictions  
 
 ## Author
 Akram Mohammed  
