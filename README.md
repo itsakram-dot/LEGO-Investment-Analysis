@@ -72,7 +72,7 @@ The descriptive analysis informs *which types* of sets to consider, while the pr
  ## Next Steps  
 - Expand dataset (more years, resale / auction data)   
 - Adapt to other collectible markets  
-- Add an interactive dashboard to allow users to explore predictions  
+- Add an interactive dashboard to allow users to explore predictions
 
 ## Author
 Akram Mohammed  
