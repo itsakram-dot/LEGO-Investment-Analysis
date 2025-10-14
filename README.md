@@ -1,5 +1,5 @@
-<img src="images/lego.jpg" alt="Colorful LEGO bricks" width="600"/>
 # LEGO Set Investment : A Two-Part Analytical Approach
+![Colorful LEGO bricks](images/lego.jpg)
 
 ## Overview
 This project takes a comprehensive approach to LEGO set valuation through two distinct analytical lenses: descriptive analysis of historical patterns and predictive modeling of fair market prices. Using 2018-2019 LEGO set data, we answer both "what has happened" and "what should happen" to guide investment decisions.
