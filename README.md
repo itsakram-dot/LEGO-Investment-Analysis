@@ -22,6 +22,7 @@ This project takes a comprehensive approach to LEGO set valuation through two di
 - Largest themes don't guarantee best value-per-brick
 - *Architecture* and *Creator Expert* themes show superior piece efficiency
 - Licensed themes command price premiums beyond raw material value
+<img width="819" height="384" alt="Screenshot 2025-10-14 at 15 56 45" src="https://github.com/user-attachments/assets/6263e972-d05d-4bd3-a52f-bd7cc24c938e" />
 
 ## Part 2: Predictive Modeling - Estimating Fair Market Value
 **Goal:** Build machine learning models to predict what LEGO sets *should* cost based on their attributes.
@@ -35,6 +36,7 @@ This project takes a comprehensive approach to LEGO set valuation through two di
 - Identifies undervalued sets (retail price < predicted fair price)
 - Flags overpriced sets for risk avoidance
 - Provides quantitative foundation for investment decisions
+<img width="833" height="386" alt="Screenshot 2025-10-14 at 15 58 00" src="https://github.com/user-attachments/assets/76deef03-622e-4a63-ab68-d6ad10b2b1a4" />
 
 ## How the Two Parts Work Together
 The descriptive analysis informs *which types* of sets to consider, while the predictive modeling identifies *specific sets* within those categories that represent good value.
