@@ -1,3 +1,4 @@
+![Lego bricks](images/lego-header.jpg)
 # LEGO Set Investment : A Two-Part Analytical Approach
 
 ## Overview
