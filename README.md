@@ -1,4 +1,4 @@
-![Lego bricks](images/lego-header.jpg)
+<img src="images/lego.jpg" alt="Colorful LEGO bricks" width="600"/>
 # LEGO Set Investment : A Two-Part Analytical Approach
 
 ## Overview
