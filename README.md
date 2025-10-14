@@ -1,15 +1,24 @@
-# LEGO Set Investment : A Two-Part Analytical Approach
+# LEGO Set Investment Analysis: A Two-Part Analytical Approach
 <img width="800" height="400" alt="UYYY" src="https://github.com/user-attachments/assets/67dd9a3d-ee9b-4b07-9841-a34a4a00eecd" />
 
 *Figure: Sample LEGO bricks.*
+
+## 🎯 Summary
+This project answers a critical question for collectors and investors: which LEGO sets are truly worth buying?
+
+By analyzing 2018–2019 LEGO set data, we developed a dual-methodology approach:
+
+**Descriptive Analysis** revealed that popular themes like Star Wars often offer poor value, while niche themes like Architecture and Creator Expert provide more bricks per dollar.
+
+A **Predictive Model** (R² > 0.95) accurately estimates a set's "fair price," identifying undervalued sets that represent potential investment opportunities.
+
+The result is a data-driven framework that reduces guesswork, highlights high-potential sets, and provides a scalable method for analyzing collectible markets.
 
 ## Overview
 This project takes a comprehensive approach to LEGO set valuation through two distinct analytical lenses: descriptive analysis of historical patterns and predictive modeling of fair market prices. Using 2018-2019 LEGO set data, we answer both "what has happened" and "what should happen" to guide investment decisions.
 
 ## Business Problem
-- LEGO sets can appreciate after retirement, but predicting winners is challenging
-- Investors need both historical context AND forward-looking price guidance
-- This project delivers both: market intelligence + predictive signals
+LEGO sets can appreciate significantly after retirement, but identifying which sets will become valuable is challenging. Investors need both historical market intelligence AND forward-looking price signals—this project delivers both through a comprehensive analytical framework.
 
 ## Part 1: Descriptive Analysis - Understanding the LEGO Market Landscape
 **Goal:** Identify historical patterns, theme performance, and value indicators across the LEGO ecosystem.
@@ -54,7 +63,7 @@ The descriptive analysis informs *which types* of sets to consider, while the pr
 ## Tools & Methodology
 - **Descriptive Analytics:** Pandas, NumPy, Matplotlib/Seaborn for EDA and visualization
 - **Predictive Modeling:** Scikit-learn for machine learning, statistical validation
-- **Business Intelligence:** Translating technical findings into actionable investment themes
+- **Business Intelligence:** Translating technical findings into actionable investment theses
 
   ## Business Value & Impact
 - **Part 1 Value:** Strategic market understanding and theme selection framework
@@ -68,11 +77,11 @@ The descriptive analysis informs *which types* of sets to consider, while the pr
 - **Limitations:** The model does not consider secondary/auction pricing behavior, rarity, condition, or external market trends.  
 - **Caution:** Predictions are estimates; observed values may deviate due to design, packaging, scarcity, or collector demand.
  
- ## Next Steps  
-- Expand dataset (more years, resale / auction data)   
-- Adapt to other collectible markets  
-- Develop interactive dashboard to allow users to explore predictions
-- Incorporate time-series analysis for price appreciation trends
+## Next Steps
+- **Expand Data:** Incorporate 2020-2023 sets and secondary market pricing
+- **Enhance Model:** Add time-series features for appreciation forecasting  
+- **Build Interface:** Develop interactive dashboard for real-time analysis
+- **Scale Methodology:** Adapt framework to trading cards or collectible sneakers
 
 ## Author
 Akram Mohammed  
