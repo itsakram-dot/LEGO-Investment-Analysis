@@ -59,5 +59,5 @@ The descriptive analysis informs *which types* of sets to consider, while the pr
 
 ## Author
 Akram Mohammed  
-[![Email](akrammohammed09@gmail.com)
-[![LinkedIn](www.linkedin.com/in/akram-mohammed-465052134)
+[![Email](https://img.shields.io/badge/Email-akrammohammed09@gmail.com-blue?style=flat&logo=gmail)](akrammohammed09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/akram-mohammed-465052134)
