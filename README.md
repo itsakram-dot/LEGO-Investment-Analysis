@@ -1,8 +1,6 @@
 # LEGO Set Investment Analysis: A Two-Part Analytical Approach
 <img width="800" height="400" alt="UYYY" src="https://github.com/user-attachments/assets/67dd9a3d-ee9b-4b07-9841-a34a4a00eecd" />
 
-*Figure: Sample LEGO bricks.*
-
 ## 🎯 Summary
 This project answers a critical question for collectors and investors: which LEGO sets are truly worth buying?
 
